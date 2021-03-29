@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @pasi0014
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning ASP.NET Core MVC Laravel, Livewire. Taiwindcss. 
+- 🌱 I’m currently learning ASP.NET Core MVC, ReactJs, Laravel, Livewire. Taiwindcss. 
 - 📫 How to reach me: **email**: pasi0014@algonquinlive.com
