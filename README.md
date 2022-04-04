@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @pasi0014
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning ASP.NET Core MVC, Blazor, ReactJs, TypeScript, Taiwindcss. 
-- 📫 How to reach me: **email**: pasi0014@algonquinlive.com
+- 🌱 I’m currently learning AWS, React, Node, TypeScript, Taiwindcss. 
+- 📫 How to reach me: **email**: nazar.pasika1@gmail.com
